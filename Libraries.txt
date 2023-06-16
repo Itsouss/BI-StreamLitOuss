@@ -1,0 +1,12 @@
+import pandas as pd  #for data manipulation
+import numpy as np #for mathematical calculations
+import matplotlib.pyplot as plt #for visualization
+import seaborn as sns #for visualization
+import streamlit as st #for BI
+
+streamlit==1.3.0
+pandas==1.4.0
+numpy==1.24.0
+matplotlib==3.5.1
+seaborn==0.11.2
+plotly==5.5.0	

@@ -1,4 +1,4 @@
-
+pip install seaborn
 
 import pandas as pd  #for data manipulation
 import numpy as np #for mathematical calculations

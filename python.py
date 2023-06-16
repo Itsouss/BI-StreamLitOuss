@@ -1,11 +1,3 @@
-#Importing libraries to the local environment and create abbrevations for easier usage
-
-%pip install pandas
-%pip install numpy
-%pip install matplotlib
-%pip install seaborn
-%pip install pydeck
-%pip install streamlit
 
 
 import pandas as pd  #for data manipulation
